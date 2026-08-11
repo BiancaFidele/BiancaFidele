@@ -16,8 +16,7 @@ Atualmente direciono meus estudos para:
 * Power BI
 * Gestão de Riscos
 * Compliance
-* KYC
-* Tecnologia aplicada ao Mercado Financeiro
+
 
 Meu objetivo é atuar em bancos ou cooperativas de crédito, contribuindo com uma visão analítica, aprendizado contínuo e foco em eficiência operacional.
 
