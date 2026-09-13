@@ -1,28 +1,27 @@
 <div align="center">
 
-# 👋 Olá, eu sou a Bianca Fidele!
+# ✨ Olá, eu sou a Bianca Fidele! 🌷
 
-### Analista de Dados em formação | Power BI • SQL • Python • Automação
+### 📊 Analista de Dados em formação
+#### Power BI • SQL • Python • Automação
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Transformando+dados+em+informa%C3%A7%C3%B5es+%C3%BAteis+%F0%9F%93%8A;Desenvolvendo+solu%C3%A7%C3%B5es+com+tecnologia+%F0%9F%92%BB;Aprendendo%2C+criando+e+evoluindo+constantemente+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Transformando+dados+em+informa%C3%A7%C3%B5es+%C3%BAteis+%E2%9C%A8;Tecnologia%2C+dados+e+criatividade+%F0%9F%92%9C;Aprendendo%2C+criando+e+evoluindo+%F0%9F%8C%B7" />
 
 </div>
 
----
-
-## 👩‍💻 Sobre mim
+## 🌷 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela Fatec Taquaritinga.
 
 📊 Atualmente direciono minha carreira para **Análise de Dados**, desenvolvendo conhecimentos em análise, visualização e transformação de dados para apoiar a tomada de decisão.
 
-💡 Durante minha formação, venho desenvolvendo projetos envolvendo **Banco de Dados, Business Intelligence e Automação de Processos**, buscando transformar necessidades em soluções práticas por meio da tecnologia.
+💡 Gosto de transformar necessidades em soluções práticas. Durante minha formação, venho desenvolvendo projetos envolvendo **Banco de Dados, Business Intelligence e Automação de Processos**.
 
-🎯 Meu objetivo é atuar como **Analista de Dados**, contribuindo com análises, indicadores e soluções orientadas a dados.
+🎯 Meu objetivo é atuar como **Analista de Dados**, contribuindo com análises, indicadores e soluções que transformem dados em informações úteis para o negócio.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 💻 Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -30,14 +29,14 @@
 
 <br><br>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-E9A8D8?style=for-the-badge&logo=powerbi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automação-C084FC?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 Projetos em destaque
+## ✨ Projetos em destaque
 
 ### 📊 Dashboard Financeiro
 Análise de **receitas, despesas, orçamento, lucro e indicadores financeiros** utilizando Power BI, modelagem de dados e DAX.
@@ -66,49 +65,48 @@ Cardápio digital desenvolvido para visualização e personalização de produto
 
 ---
 
-## 📚 Atualmente estudando
+## 🌸 Atualmente estudando
 
 ```text
 📊 Análise de Dados
-├── Power BI & DAX
-├── SQL & Banco de Dados
-├── Python para Dados
-├── Data Warehouse
-└── Automação de Processos
+│
+├── 💜 Power BI & DAX
+├── 🗃️ SQL & Banco de Dados
+├── 🐍 Python para Dados
+├── 🏗️ Data Warehouse
+├── 📒 Data Storytelling
+├── 🧱 Databricks 
+├── 💻 Machine Learning 
+└── ⚙️ Automação de Processos
 ```
 
 ---
 
-## 📈 GitHub
+## 📈 Minha jornada no GitHub
 
-<div align="center">
+✨ Construindo projetos nas áreas de **Dados, Business Intelligence e Automação**.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BiancaFidele&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFidele&layout=compact&hide_border=true" />
-
-</div>
-
+📂 Explore meus repositórios para acompanhar meus projetos e minha evolução técnica.
 ---
 
 <div align="center">
 
-## 🤝 Vamos nos conectar?
+## 💌 Vamos nos conectar?
 
-Estou construindo minha trajetória na área de **Dados** e compartilhando por aqui meus projetos e aprendizados.
+Estou construindo minha trajetória na área de **Dados** e compartilhando por aqui meus projetos, estudos e aprendizados. 🌷
 
 <br>
 
-<a href="https://www.linkedin.com/in/biancafidele/">
-  <img src="https://img.shields.io/badge/LinkedIn-Bianca%20Fidele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/bianca-fidele/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bianca%20Fidele-C084FC?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/BiancaFidele">
-  <img src="https://img.shields.io/badge/GitHub-BiancaFidele-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-BiancaFidele-E9A8D8?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-✨ **Dados • Tecnologia • Aprendizado contínuo**
+🌷 **Dados • Tecnologia • Criatividade • Evolução** ✨
 
 </div>
